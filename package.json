@@ -1,0 +1,21 @@
+{
+  "name": "clone-tabenews",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/douglasbotelhoo/clone-tabenews#readme",
+  "bugs": {
+    "url": "https://github.com/douglasbotelhoo/clone-tabenews/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglasbotelhoo/clone-tabenews.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+    "scripts": {},
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
